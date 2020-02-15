@@ -1,3 +1,3 @@
-# ruby
-# curso de Ruby
-# passos iniciais
+* ruby
+* curso de Ruby
+* passos iniciais
