@@ -10,6 +10,6 @@ puts "digite nota 3: "
 puts "digite nota 4: "
     nota4 = gets
 
-media = nota1.to_f + nota2.to_f + nota3.to_f + nota4.to_f / 4
+media = (nota1.to_f + nota2.to_f + nota3.to_f + nota4.to_f) / 4
 
 puts "resultado: #{media}"
